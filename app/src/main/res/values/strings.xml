@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">DiplomaAudit</string>
+
+    <string name="mon">ПН</string>
+    <string name="tue">ВТ</string>
+    <string name="wed">СР</string>
+    <string name="thu">ЧТ</string>
+    <string name="fri">ПТ</string>
+    <string name="sat">СБ</string>
+    <string name="sun">НД</string>
+
+    <string name="monday">Понеділок</string>
+    <string name="tuesday">Вівторок</string>
+    <string name="wednesday">Середа</string>
+    <string name="thursday">Четвер</string>
+    <string name="friday">П`ятниця</string>
+    <string name="saturday">Субота</string>
+    <string name="sunday">Неділя</string>
+
+    <string name="january">Січень</string>
+    <string name="february">Лютий</string>
+    <string name="march">Березень</string>
+    <string name="april">Квітень</string>
+    <string name="may">Травень</string>
+    <string name="june">Червень</string>
+    <string name="july">Липень</string>
+    <string name="august">Серпень</string>
+    <string name="september">Вересень</string>
+    <string name="october">Жовтень</string>
+    <string name="november">Листопад</string>
+    <string name="december">Грудень</string>
+
+    January, February, March, April, May, June, July, August, September, October, November, December.
+
+    <string name="enter_enterprise_name">Введіть назву підпріємства:</string>
+    <string name="enter_department_name">Введіть назву відділу:</string>
+    <string name="enter_work_days">Дні тижня</string>
+
+    <string name="day_start">Початок</string>
+    <string name="day_end">Кінець</string>
+
+    <string name="holiday">Вихідний</string>
+    <string name="allDandN">Цілодобово</string>
+
+    <string name="add_enterprise">Добавити підпріємство</string>
+    <string name="add_department">Добавити відділ</string>
+    <string name="add_employee">Добавити робітника</string>
+
+    <string name="num_employee">Кількість робітників:</string>
+
+    <string name="enterprise_name">Назва підпріємства</string>
+    <string name="departments_name">Відділи</string>
+    <string name="department_name">Відділ</string>
+
+    <string name="employee_name">Ім`я</string>
+    <string name="employee_second_name">По батькові</string>
+    <string name="employee_surname">Прізвище</string>
+
+    <string name="employee_maybe_holiday">Можливі вихідні:</string>
+    <string name="employee_priority_work">Пріорітет роботи:</string>
+
+    <string name="employee_priority_morning">ранок</string>
+    <string name="employee_priority_afternoon">день</string>
+    <string name="employee_priority_evening">вечір</string>
+
+    <string name="employee_min_hour">Мінімальна кількість годин</string>
+    <string name="employee_max_hour">Максимальна кількість годин</string>
+
+    <string name="show_schedule_department">Показати розклад відділу</string>
+    <string name="add_work_button">Добавити роботу</string>
+    <string name="add_operation_button">Добавити операцію</string>
+
+
+</resources>
